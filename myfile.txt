@@ -1,0 +1,6 @@
+code	coursetile	CP
+A102	XML COurse	3
+A201	Statistics	6
+B202	Integration	5
+
+
