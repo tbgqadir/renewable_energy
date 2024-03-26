@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Courses>
-<Course code="A102" CP="3">XML Course</Course>
-<Course code="B202" CP="5">Integration</Course>
-<Course code="A201" CP="6">Statistics</Course>
+    <MyCourses>
+        <Course code="A102" CP="3">XML Course</Course>
+        <Course code="B202" CP="5">Integration</Course>
+        <Course code="A201" CP="6">Statistics</Course>
+    </MyCourses>
 </Courses>
