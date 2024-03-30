@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
 <Courses title="My courses">
     <AllCourses>
         <Course code="A102" CP="3">XML Course</Course>
@@ -8,6 +9,9 @@
         <Course code="B203" CP="5">Integration2</Course>
         <Course code="A203" CP="6">Statistics2</Course>
     </AllCourses>
+=======
+<Courses>
+>>>>>>> master
     <MyCourses>
         <Course code="A102" CP="3">XML Course</Course>
         <Course code="B202" CP="5">Integration</Course>
